@@ -11,4 +11,4 @@ Where the hex color is the background fill color for the splash screens.
 
 ##Dependencies
 
-ImageMagick Convert Command-Line Tool [http://www.imagemagick.org/script/convert.php]
+ImageMagick [Convert](http://www.imagemagick.org/script/convert.php) Command-Line Tool
